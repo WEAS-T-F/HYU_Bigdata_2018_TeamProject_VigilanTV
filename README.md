@@ -126,4 +126,12 @@
 
         웹과 연동할 HiveQL 쿼리를 작성하기 위해 사용
 
+<br>
 
+## **ETC**
+
+IT잡지 테크월드에 프로젝트 결과를 기고.
+
+[딥러닝 기반 불법 주·정차 자동 탐지 시스템 제작 ①](https://www.epnc.co.kr/news/articleView.html?idxno=83022)
+
+[딥러닝 기반 불법 주·정차 자동 탐지 시스템 제작 ②](https://www.epnc.co.kr/news/articleView.html?idxno=90232)
