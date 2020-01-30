@@ -1,0 +1,9 @@
+[submodule "darkflow"]
+	path = darkflow
+	url = https://github.com/thtrieu/darkflow
+[submodule "sort"]
+	path = sort
+	url = https://github.com/abewley/sort
+[submodule "labelImg"]
+	path = labelImg
+	url = https://github.com/tzutalin/labelImg
